@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205840719560",
+    "firebase_url": "https://surveillance-server-default-rtdb.firebaseio.com",
+    "project_id": "surveillance-server",
+    "storage_bucket": "surveillance-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205840719560:android:e5bf7eed7f8497a14b0ffd",
+        "android_client_info": {
+          "package_name": "umss.liveyesmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205840719560-c8nvopcf06mq7is44uucseko0ic6nf68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmZN4RboAiVN0ky_PRakvolaSBxnDRvYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205840719560-c8nvopcf06mq7is44uucseko0ic6nf68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
