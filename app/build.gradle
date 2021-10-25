@@ -3,14 +3,14 @@ plugins {
 }
 
 apply plugin: 'com.android.application'
-apply plugin: 'com.google.gms.google-services'
+//apply plugin: 'com.google.gms.google-services'
 
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "com.example.socket"
+        applicationId 'com.client.liveyesmart'
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
@@ -42,4 +42,9 @@ dependencies {
 
     implementation platform('com.google.firebase:firebase-bom:28.4.2')
     implementation 'com.google.firebase:firebase-analytics'
+
+    implementation 'com.google.android.exoplayer:exoplayer-core:2.12.0'
+    implementation 'com.google.android.exoplayer:exoplayer-dash:2.12.0'
+    implementation 'com.google.android.exoplayer:exoplayer-ui:2.12.0'
+
 }
