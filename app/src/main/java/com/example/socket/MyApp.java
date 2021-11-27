@@ -13,8 +13,5 @@ public class MyApp extends Application {
     public void onCreate() {
         super.onCreate();
         SystemClock.sleep(3000);
-
     }
-
-
 }

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Live Eye Smart</string>
+    <string name="token_firebase"></string>
 </resources>

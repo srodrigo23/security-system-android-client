@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "205840719560",
-    "firebase_url": "https://surveillance-server-default-rtdb.firebaseio.com",
-    "project_id": "surveillance-server",
-    "storage_bucket": "surveillance-server.appspot.com"
+    "project_number": "1078460506288",
+    "firebase_url": "https://surveillance-database-default-rtdb.firebaseio.com",
+    "project_id": "surveillance-database",
+    "storage_bucket": "surveillance-database.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:205840719560:android:e5bf7eed7f8497a14b0ffd",
+        "mobilesdk_app_id": "1:1078460506288:android:b5c321662b043033db5b75",
         "android_client_info": {
-          "package_name": "umss.liveyesmart"
+          "package_name": "com.client.liveyesmart"
         }
       },
       "oauth_client": [
         {
-          "client_id": "205840719560-c8nvopcf06mq7is44uucseko0ic6nf68.apps.googleusercontent.com",
+          "client_id": "1078460506288-4es0ecubafras11terlfo2m5hbpqj9a3.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAmZN4RboAiVN0ky_PRakvolaSBxnDRvYc"
+          "current_key": "AIzaSyC5UjiJqN4wO1WYIGBHH90TjzlAiOe-yOc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "205840719560-c8nvopcf06mq7is44uucseko0ic6nf68.apps.googleusercontent.com",
+              "client_id": "1078460506288-4es0ecubafras11terlfo2m5hbpqj9a3.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
