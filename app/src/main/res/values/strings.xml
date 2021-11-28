@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">Live Eye Smart</string>
     <string name="token_firebase"></string>
+    <string name="navigation_drawer_open">Abierto</string>
+    <string name="navigation_drawer_close">Cerrado</string>
+    
+    <string name="menu_camera">Camara</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_tools">Herramientas</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_send">Enviar</string>
+    <string name="menu_group">Grupo</string>
+    <string name="copyright">Derechos reservados</string>
 </resources>
